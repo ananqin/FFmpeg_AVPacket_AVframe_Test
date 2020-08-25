@@ -1,0 +1,2 @@
+# FFmpeg_AVPacket_AVframe_Test
+关于FFmpeg内存模型的测试代码，在qt编译工具下运行，并需要加载动态库
